@@ -151,7 +151,7 @@ GameObject:
   - component: {fileID: 4424659702957288828}
   - component: {fileID: 2736798240998243791}
   - component: {fileID: 7192317283757851782}
-  - component: {fileID: 8448521813427185053}
+  - component: {fileID: -1554266784784494435}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -310,7 +310,7 @@ MonoBehaviour:
   m_SynchronizeRotation: 1
   m_SynchronizeScale: 0
   m_UseLocal: 1
---- !u!114 &8448521813427185053
+--- !u!114 &-1554266784784494435
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -319,7 +319,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3889422309105091770}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5d4454c6a73b18c438e949e413fd1f91, type: 3}
+  m_Script: {fileID: 11500000, guid: de42a0d87fa17e5489dde9201e01b8e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   sprites:
