@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Grass
+  - Platform
+  - SideLeft
+  - SideRight
+  - Slime
+  - Spike
+  - Breakable
+  - FallTrigger
+  - Bomb
   layers:
   - Default
   - TransparentFX

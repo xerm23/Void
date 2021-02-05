@@ -59,10 +59,11 @@ public class PlayerListEntry : MonoBehaviour
 
     #endregion
 
-    public void Initialize(int playerId, string playerName)
+    public void Initialize(int playerId, string playerName, Sprite spr)
     {
         ownerId = playerId;
         PlayerNameText.text = playerName;
+        PlayerColorImage.sprite = spr;
     }
 
     private void OnPlayerNumberingChanged()

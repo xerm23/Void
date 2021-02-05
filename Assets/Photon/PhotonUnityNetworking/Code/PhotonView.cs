@@ -36,6 +36,11 @@ namespace Photon.Pun
         {
             EditorApplication.ExecuteMenuItem("Window/Photon Unity Networking/PUN Wizard");
         }
+
+        public void RPC(string v, object others, object p)
+        {
+            throw new NotImplementedException();
+        }
 #endif
 
 #if UNITY_EDITOR
